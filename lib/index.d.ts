@@ -353,7 +353,7 @@ declare namespace OpenIDConnectStrategy {
         /** User preferred_name in jwt claim */
         username?: string;
         name?: {
-            giveName?: string;
+            givenName?: string;
             familyName?: string;
             middleName?: string;
         };
