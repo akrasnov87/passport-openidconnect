@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.2 (2023-10-04)
+
+### Changed 
+
+- fix: type in oauth profile interface (special thanks to @jacobszpz)
+- chore: bump oauth to v0.10.0
+- chore: update npm packages
+
 ## v1.0.1 (2023-05-15)
 
 > There is no change to the codebase, just a version bump to publish to the new npm organisation.
