@@ -9,6 +9,11 @@ easily and unobtrusively integrated into any application or framework that
 supports [Connect](http://www.senchalabs.org/connect/)-style middleware,
 including [Express](http://expressjs.com/).
 
+# От того кто поменял
+Библиотека используется для [`Budibase`](https://github.com/akrasnov87/budibase) и в одном из компонент применяется в часности метка v0.3.2 но вней есть баг и чтобы исправить это был создан этот fork.
+
+Добавлена новая метка (tag) v0.3.2a где исправлена ошибка с циклом for и объявлением переменной.
+
 ## Installation
 
 ```bash
